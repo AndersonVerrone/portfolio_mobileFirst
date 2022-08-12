@@ -1,0 +1,22 @@
+@import url(./normalize.css);
+@import url(./reset.css);
+@import url(./variaveis.css);
+@import url(./_cabecalho.css);
+@import url(./_apresentacao.css);
+
+body{
+    background-color: var(--bg-cor);
+    font-family: var(--font-principal);
+}
+
+
+
+
+
+
+
+
+
+
+
+
